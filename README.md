@@ -1,2 +1,2 @@
 # immortalfits
-E-commerce website for immortal fits
+Repository for E-commerce website immortalfits.com
